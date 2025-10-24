@@ -42,5 +42,6 @@ Users can register as sellers or buyers, create gigs, and manage their freelance
 
 ## 🎬 Demo
 
-![Demo](./client/public/fiverr-clone.gif)
+![fiverr clone](https://github.com/user-attachments/assets/90ed2658-5390-4ca6-a683-dacdb9d06358)
+
 
